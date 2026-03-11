@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // طباعة النص على الشاشة
+    //
     printf("Hello, World!\n");
     
     return 0;
